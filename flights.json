@@ -1,0 +1,218 @@
+{
+  "flights" : [
+      {
+          "origin" : "Auckland",
+          "originCode" : "AKL",
+          "destination" : "Wellington",
+          "destCode" : "WLG",
+          "departDate" : "2020-04-08",
+          "departTime" : 700,
+          "arriveTime" : 800,
+          "flightNo" : "NZ101",
+          "price" : 75,
+          "depart" : "8th April 2020"
+      },
+      {
+          "origin" : "Auckland",
+          "originCode" : "AKL",
+          "destination" : "Wellington",
+          "destCode" : "WLG",
+          "departDate" : "2020-04-08",
+          "departTime" : 900,
+          "arriveTime" : 1000,
+          "flightNo" : "NZ102",
+          "price" : 100,
+          "depart" : "8th April 2020"
+      },
+      {
+          "origin" : "Auckland",
+          "originCode" : "AKL",
+          "destination" : "Wellington",
+          "destCode" : "WLG",
+          "departDate" : "2020-04-08",
+          "departTime" : 1100,
+          "arriveTime" : 1200,
+          "flightNo" : "NZ103",
+          "price" : 100,
+          "depart" : "8th April 2020"
+      },
+      {
+          "origin" : "Auckland",
+          "originCode" : "AKL",
+          "destination" : "Wellington",
+          "destCode" : "WLG",
+          "departDate" : "2020-04-08",
+          "departTime" : 1300,
+          "arriveTime" : 1400,
+          "flightNo" : "NZ104",
+          "price" : 100,
+          "depart" : "8th April 2020"
+      },
+      {
+          "origin" : "Wellington",
+          "originCode" : "WLG",
+          "destination" : "Auckland",
+          "destCode" : "AKL",
+          "departDate" : "2020-04-08",
+          "departTime" : 700,
+          "arriveTime" : 800,
+          "flightNo" : "NZ201",
+          "price" : 75,
+          "depart" : "8th April 2020"
+      },
+      {
+          "origin" : "Wellington",
+          "originCode" : "WLG",
+          "destination" : "Auckland",
+          "destCode" : "AKL",
+          "departDate" : "2020-04-08",
+          "departTime" : 900,
+          "arriveTime" : 1000,
+          "flightNo" : "NZ202",
+          "price" : 100,
+          "depart" : "8th April 2020"
+      },
+      {
+          "origin" : "Wellington",
+          "originCode" : "WLG",
+          "destination" : "Auckland",
+          "destCode" : "AKL",
+          "departDate" : "2020-04-08",
+          "departTime" : 1100,
+          "arriveTime" : 1200,
+          "flightNo" : "NZ203",
+          "price" : 100,
+          "depart" : "8th April 2020"
+      },
+      {
+        "origin" : "Wellington",
+        "originCode" : "WLG",
+        "destination" : "Auckland",
+        "destCode" : "AKL",
+        "departDate" : "2020-04-09",
+        "departTime" : 700,
+        "arriveTime" : 800,
+        "flightNo" : "NZ201",
+        "price" : 75,
+        "depart" : "9th April 2020"
+    },
+    {
+        "origin" : "Wellington",
+        "originCode" : "WLG",
+        "destination" : "Auckland",
+        "destCode" : "AKL",
+        "departDate" : "2020-04-09",
+        "departTime" : 900,
+        "arriveTime" : 1000,
+        "flightNo" : "NZ202",
+        "price" : 100,
+        "depart" : "9th April 2020"
+    },
+    {
+        "origin" : "Wellington",
+        "originCode" : "WLG",
+        "destination" : "Auckland",
+        "destCode" : "AKL",
+        "departDate" : "2020-04-09",
+        "departTime" : 1100,
+        "arriveTime" : 1200,
+        "flightNo" : "NZ203",
+        "price" : 100,
+        "depart" : "9th April 2020"
+    },
+    {
+      "origin" : "Auckland",
+      "originCode" : "AKL",
+      "destination" : "Queenstown",
+      "destCode" : "QLD",
+      "departDate" : "2020-04-08",
+      "departTime" : 730,
+      "arriveTime" : 930,
+      "flightNo" : "NZ301",
+      "price" : 175,
+      "depart" : "8th April 2020"
+    },
+    {
+      "origin" : "Auckland",
+      "originCode" : "AKL",
+      "destination" : "Queenstown",
+      "destCode" : "QLD",
+      "departDate" : "2020-04-08",
+      "departTime" : 930,
+      "arriveTime" : 1130,
+      "flightNo" : "NZ302",
+      "price" : 200,
+      "depart" : "8th April 2020"
+    },
+    {
+      "origin" : "Auckland",
+      "originCode" : "AKL",
+      "destination" : "Queenstown",
+      "destCode" : "QLD",
+      "departDate" : "2020-04-08",
+      "departTime" : 1330,
+      "arriveTime" : 1530,
+      "flightNo" : "NZ303",
+      "price" : 200,
+      "depart" : "8th April 2020"
+    },
+    {
+      "origin" : "Queenstown",
+      "originCode" : "QLD",
+      "destination" : "Auckland",
+      "destCode" : "AKL",
+      "departDate" : "2020-04-08",
+      "departTime" : 1000,
+      "arriveTime" : 1200,
+      "flightNo" : "NZ401",
+      "price" : 200,
+      "depart" : "8th April 2020"
+    },
+    {
+      "origin" : "Queenstown",
+      "originCode" : "QLD",
+      "destination" : "Auckland",
+      "destCode" : "AKL",
+      "departDate" : "2020-04-08",
+      "departTime" : 1700,
+      "arriveTime" : 1900,
+      "flightNo" : "NZ402",
+      "price" : 200,
+      "depart" : "8th April 2020"
+    },
+    {
+      "origin" : "Queenstown",
+      "originCode" : "QLD",
+      "destination" : "Auckland",
+      "destCode" : "AKL",
+      "departDate" : "2020-04-09",
+      "departTime" : 1000,
+      "arriveTime" : 1200,
+      "flightNo" : "NZ401",
+      "price" : 200,
+      "depart" : "9th April 2020"
+    },
+    {
+      "origin" : "Queenstown",
+      "originCode" : "QLD",
+      "destination" : "Auckland",
+      "destCode" : "AKL",
+      "departDate" : "2020-04-09",
+      "departTime" : 1700,
+      "arriveTime" : 1900,
+      "flightNo" : "NZ402",
+      "price" : 200,
+      "depart" : "9th April 2020"
+    }
+  ],
+  "users" : [
+    {
+        "username" : "Lucy",
+        "password" : "1234"
+    },
+    {
+        "username" : "Guest",
+        "password" : "Guest"
+    }
+]
+}
